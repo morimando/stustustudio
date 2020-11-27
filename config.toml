@@ -3,9 +3,9 @@ author = "Martin"
 baseURL = "https://stu-stu.studio"
 copyright = "Copyright © 2020 Martin"
 date = 2020-11-27T18:50:24Z
-description = ""
+description = "This is a page where I write about things."
 enableInlineShortcodes = true
-feature_image = ""
+feature_image = "/images/73eeec07-f1fd-485d-bd4d-5cb24d9cc855-2020-11-27.jpeg"
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
@@ -16,7 +16,22 @@ title = "Just stuff."
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 1
+weight = 10
+[[menu.main]]
+identifier = "image-credit"
+name = "Image Credit"
+url = "/image-credit/"
+weight = 20
+[[menu.main]]
+identifier = "github-repo-theme"
+name = "Get Theme on Github"
+url = "https://github.com/jonathanjanssens/hugo-casper3"
+weight = 30
+[[menu.main]]
+identifier = "author"
+name = "Author Homepage"
+url = "https://jonathanjanssens.com"
+weight = 40
 [params]
 description = "Just a demo site for the Casper3 theme ported to Hugo"
 facebook = "https://facebook.com"
