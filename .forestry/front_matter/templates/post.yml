@@ -25,3 +25,4 @@ fields:
   label: feature_image
 pages:
 - config.toml
+- content/post/first-post.md
