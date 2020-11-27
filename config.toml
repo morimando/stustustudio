@@ -2,10 +2,14 @@ DefaultContentLanguage = "en"
 author = "Martin"
 baseURL = "https://stu-stu.studio"
 copyright = "Copyright © 2020 Martin"
+date = 2020-11-27T18:50:24Z
+description = ""
 enableInlineShortcodes = true
+feature_image = ""
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
+tags = []
 theme = "github.com/jonathanjanssens/hugo-casper3"
 title = "Just stuff."
 [[menu.main]]
